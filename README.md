@@ -19,4 +19,4 @@ Currently working with **MERN stack**, **Next.js** and building **AI-powered too
 
 ###  Find Me Online  
 -  [**LinkedIn**](https://www.linkedin.com/in/sanskritigogoi)  
--  [**Portfolio**](https://sanskriti2004.github.io/my-portfolio/)
+-  [**Portfolio**](https://sanskritigogoi.vercel.app/)
