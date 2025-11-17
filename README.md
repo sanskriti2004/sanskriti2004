@@ -2,7 +2,9 @@ Currently working with **MERN stack**, **Next.js** and building **AI-powered too
 
 ---
 
-### Experience  
+### Experience 
+-  **Software Engineering Intern** @ *SushiCoins*  
+  →  Web3 trading platform
 -  **Full-Stack Developer Intern** @ *EMVOKE Technologies Pvt. Ltd.*  
   → Healthcare SaaS
 -  **AI & Web Dev Intern** @ *23Ventures Inc.*  
